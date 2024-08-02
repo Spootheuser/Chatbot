@@ -10,11 +10,11 @@
 }
 hr{
     position: sticky;
-    top:80px;
+    top:90px;
     border: solid;
 }
 .logo{
-    height: 75px;
+    height: 73px;
     width:130px;
 
     display: flex;
